@@ -38,7 +38,7 @@ scripts/                apply-to-existing.ps1 / .sh: llevar esta plantilla a un 
    o clónala:
 
    ```sh
-   git clone https://github.com/<usuario>/agent-team-template mi-proyecto
+   git clone https://github.com/FlorJDC/agent-team-template mi-proyecto
    cd mi-proyecto && git remote remove origin      # que el proyecto tenga su propio remoto
    ```
 
